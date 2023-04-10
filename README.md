@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Yomna Kerir
 
-An Enthusiastic Android Developer
+An Enthusiastic Mobile Developer
 
 
 - 🔭 I’m currently Trainee on [ITI](https://www.iti.gov.eg/)
