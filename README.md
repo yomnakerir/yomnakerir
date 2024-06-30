@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yomna Kerir
+### Hi 👋, I'm Yomna Ahmed
 
 An Enthusiastic Mobile Developer
 
